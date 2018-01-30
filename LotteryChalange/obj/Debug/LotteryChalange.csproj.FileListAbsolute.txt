@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\bin\LotteryChalange.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\bin\LotteryChalange.dll
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\bin\LotteryChalange.pdb
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\obj\Debug\LotteryChalange.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\obj\Debug\LotteryChalange.dll
+c:\users\admin\documents\visual studio 2013\Projects\LotteryChalange\LotteryChalange\obj\Debug\LotteryChalange.pdb
